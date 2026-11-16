@@ -63,7 +63,7 @@ Transaction:    https://etherscan.io/tx/0x5a6b…9e0f
 ## Usage
 
 ```bash
-python monitor.py
+python EthereumScreener.py
 ```
 
 The script asks for your Etherscan key and RPC URL at startup (input is hidden). Alternatively, fill in the two constants at the top of the file, but **never commit a file containing your keys**.
